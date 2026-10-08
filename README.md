@@ -10,10 +10,11 @@ me llamaba la atención los lenguajes de programación como **Python** y **HTML*
 empecé a crear **Bots** para servidores de amigos en discord y hoy en día soy **developer**
 y moderador en servidores de discord y **developer** y **builder** en Roblox.*
 
-### Lenguajes que domino
-[![My Skills](https://skillicons.dev/icons?i=html,py)](https://skillicons.dev)
-
-### Hobbies
-*Ahora mismo de vez en cuando tengo tiempo me pongo a crear y mapear juego de roblox en **Blender** y en el mismo **Roblox Studio**
+### 🎭 Hobbies
+*De vez en cuando que tengo tiempo me pongo a crear y buildear juegos de Roblox en **Blender** y en el mismo **Roblox Studio**
 tambien me gusta editar alguna que otra cosa en **Photoshop**, y monitorear servidores de **Discord**.*
+
 [![My Skills](https://skillicons.dev/icons?i=ps,discord,blender)](https://skillicons.dev)
+
+### 🧶 Lenguajes que domino
+[![My Skills](https://skillicons.dev/icons?i=html,py)](https://skillicons.dev)
