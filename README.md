@@ -8,14 +8,12 @@ y con estos aprendi a utilizar programas los cuales chicos de mi colegio no sabi
 ya a los 15 años me encamine mas por el montaje de ordenadores ( hardware ) y a la vez
 me llamaba la atención los lenguajes de programación como **Python** y **HTML**, a los 17
 empecé a crear **Bots** para servidores de amigos en discord y hoy en día soy **developer**
-y moderador en servidores de discord y **developer** y **builder** en Roblox.
+y moderador en servidores de discord y **developer** y **builder** en Roblox.*
 
-## My domains.
-These are the programming languages that I master and that have helped me expand my knowledge in computing.
-
+### Lenguajes que domino
 [![My Skills](https://skillicons.dev/icons?i=html,py)](https://skillicons.dev)
 
-## Hobbies.
-I started making miniatures in Photoshop in 2016, then I switched to Discord in 2018 to monitor community servers and I currently use Blender for my in-game projects in Roblox.
-
+### Hobbies
+*Ahora mismo de vez en cuando tengo tiempo me pongo a crear y mapear juego de roblox en **Blender** y en el mismo **Roblox Studio**
+tambien me gusta editar alguna que otra cosa en **Photoshop**, y monitorear servidores de **Discord**.*
 [![My Skills](https://skillicons.dev/icons?i=ps,discord,blender)](https://skillicons.dev)
