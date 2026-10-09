@@ -3,7 +3,7 @@
 ## 🍰 Sobre mi
 *Soy estudiante de 1º año de **Administrador de Sistemas Informáticos en Red**,
 mi vida con la informática empezó a los 8 años cuando mi familia compro un portatil
-con Windows XP y un PC con Windows 7 estos 2 me mostraron el internet a temprana edad
+con Windows XP y un PC con Windows 7, estos 2 me mostraron el internet a temprana edad
 y con estos aprendi a utilizar programas los cuales chicos de mi colegio no sabian,
 ya a los 15 años me encamine mas por el montaje de ordenadores ( hardware ) y a la vez
 me llamaba la atención los lenguajes de programación como **Python** y **HTML**, a los 17
