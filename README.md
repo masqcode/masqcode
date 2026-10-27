@@ -1,20 +1,63 @@
-![header](./headergit.jpg)
-# Hola!, soy Masquerade
-## 🍰 Sobre mi
-*Soy estudiante de 1º año de **Administrador de Sistemas Informáticos en Red**,
-mi vida con la informática empezó a los 8 años cuando mi familia compro un portatil
-con Windows XP y un PC con Windows 7, estos 2 me mostraron el internet a temprana edad
-y con estos aprendi a utilizar programas los cuales chicos de mi colegio no sabian,
-ya a los 15 años me encamine mas por el montaje de ordenadores ( hardware ) y a la vez
-me llamaba la atención los lenguajes de programación como **Python** y **HTML**, a los 17
-empecé a crear **Bots** para servidores de amigos en discord y hoy en día soy **developer**
-y moderador en servidores de discord y **developer** y **builder** en Roblox.*
+<div align="center">
 
-### 🎭 Hobbies
-*De vez en cuando que tengo tiempo me pongo a crear y buildear juegos de Roblox en **Blender** y en el mismo **Roblox Studio**
-tambien me gusta editar alguna que otra cosa en **Photoshop**, y monitorear servidores de **Discord**.*
+![header](./headergit.jpg)///
 
-[![My Skills](https://skillicons.dev/icons?i=ps,discord,blender)](https://skillicons.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=E62E00&center=true&vCenter=true&width=600&height=50&lines=ALL+HAIL+LELOUCH!;ADMINISTRADOR+DE+SISTEMAS+INFORM%C3%81TICOS;ROBLOX+BUILDER+%26+DEVELOPER;PYTHON+%26+HTML5+DEV)](https://git.io/typing-svg)
 
-### 🧶 Lenguajes que domino
-[![My Skills](https://skillicons.dev/icons?i=html,py)](https://skillicons.dev)
+<br>
+
+[![GitHub Followers](https://img.shields.io/badge/Seguidores-1-0d0e15?style=for-the-badge&logo=github&logoColor=ffffff&color=8a2be2)]()
+[![Profile Views](https://komarev.com/ghpvc/?username=masqcode&style=for-the-badge&color=e62e00&labelColor=0d0e15)]()
+[![Discord](https://img.shields.io/badge/Discord-Masqcode-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0e15)]()
+
+</div>
+
+<br>
+
+---
+
+## Sobre Mí
+
+> *«Si el rey no se mueve, sus súbditos no le seguirán.»*
+
+Soy estudiante de **1º año de Administrador de Sistemas Informáticos en Red (ASIR)**. Mi relación con la informática comenzó a los 8 años con un portátil con Windows XP y un ordenador con Windows 7, herramientas que despertaron mi curiosidad por internet y el software a temprana edad.
+
+A los 15 años profundicé en el montaje de hardware y descubrí lenguajes como **Python** y **HTML**. A los 17 comencé a desarrollar bots para servidores de Discord. Actualmente desempeño labores de desarrollo y moderación en comunidades de Discord, además de trabajar como desarrollador y *builder* en Roblox.
+
+---
+
+## Habilidades y Tecnologías
+
+### Desarrollo y Sistemas
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+### Creación y Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</p>
+
+---
+
+## Intereses y Hobbies
+
+* **Desarrollo en Roblox**: Creación de mundos y modelado tridimensional utilizando *Roblox Studio* y *Blender*.
+* **Diseño y Edición**: Retoque visual y diseño de recursos mediante *Adobe Photoshop*.
+* **Gestión de Comunidades**: Administración técnica y monitoreo de servidores en *Discord*.
+
+---
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/masqcode/masqcode/main/assets/headergit.jpg" width="60%" alt="divider" />
+  <p><i>All Hail Masqcode</i></p>
+</div>
